@@ -1,0 +1,16 @@
+License
+pyproject.toml
+setup.cfg
+src/example_pkg_ShifraG.egg-info/PKG-INFO
+src/example_pkg_ShifraG.egg-info/SOURCES.txt
+src/example_pkg_ShifraG.egg-info/dependency_links.txt
+src/example_pkg_ShifraG.egg-info/top_level.txt
+src/math_quiz/__init__.py
+src/math_quiz/check_sum.py
+src/python_quiz/__init__.py
+src/python_quiz/q_shuffle.py
+src/python_quiz/quiz_bank.py
+src/python_quiz/quiz_class.py
+src/python_quiz/quiz_score.py
+src/slot_machine/__init__.py
+src/slot_machine/slot_machine.py

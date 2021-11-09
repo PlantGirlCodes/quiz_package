@@ -1,0 +1,3 @@
+math_quiz
+python_quiz
+slot_machine
